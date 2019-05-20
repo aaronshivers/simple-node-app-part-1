@@ -1,0 +1,23 @@
+{
+  "name": "simple-node-app-part-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aaronshivers/simple-node-app-part-1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aaronshivers/simple-node-app-part-1/issues"
+  },
+  "homepage": "https://github.com/aaronshivers/simple-node-app-part-1#readme",
+  "dependencies": {
+    "express": "^4.17.0"
+  }
+}
